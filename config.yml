@@ -1,0 +1,16 @@
+# Thank you for using TheBan
+# Version: 1.0
+# Made by: Evildude221
+# Requested by: B1GM4N
+
+BanMessage: '&cGo to www.example.com to buy a unban!'
+BroadcastMessage: ' &ahas been banned by '
+PlayerColor: '&c'
+IncorrectUsage: '&4Incorrect usage. Try using /ban <player>'
+NotBanned: '&cThat player is not banned!'
+Success: '&bYou successfully banned '
+UnbanMessage: '&bYou successfully unbanned '
+
+
+
+

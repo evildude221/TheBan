@@ -1,0 +1,23 @@
+name: TheBan
+main: me.cgfx360.theban.Main
+version: 1.0
+description: >
+             Simply bans a player
+commands:
+  ban:
+    description: Ban Command
+    permission: theban.ban
+    permission-message: §cYou don't have permission
+  unban:
+    description: Unban Command
+    permission: theban.ban
+    permission-message: §cYou don't have permission
+permissions:
+  theban.ban:
+    default: op
+  theban.unban:
+    default: op
+  theban.see:
+    default: op
+
+    
